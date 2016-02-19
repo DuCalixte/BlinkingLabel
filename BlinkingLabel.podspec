@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!  
   s.description      = "BlinkLabel produces a blinking label on screen using cocopods."
 
-  s.homepage         = "https://github.com/<GITHUB_USERNAME>/BlinkingLabel"
+  s.homepage         = "https://github.com/ducalixte/BlinkingLabel"
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
   s.author           = { "Stanley Calixte" => "DuCalixte@gmail.com" }

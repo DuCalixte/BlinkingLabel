@@ -1,15 +1,15 @@
 {
   "name": "BlinkingLabel",
   "version": "0.1.0",
-  "summary": "A short description of BlinkingLabel.",
-  "description": "",
-  "homepage": "https://github.com/<GITHUB_USERNAME>/BlinkingLabel",
+  "summary": "First attempt at producing cocopods for swift.",
+  "description": "BlinkLabel produces a blinking label on screen using cocopods.",
+  "homepage": "https://github.com/ducalixte/BlinkingLabel",
   "license": "MIT",
   "authors": {
     "Stanley Calixte": "DuCalixte@gmail.com"
   },
   "source": {
-    "git": "https://github.com/<GITHUB_USERNAME>/BlinkingLabel.git",
+    "git": "https://github.com/ducalixte/BlinkingLabel.git",
     "tag": "0.1.0"
   },
   "platforms": {
